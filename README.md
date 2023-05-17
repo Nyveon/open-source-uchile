@@ -64,7 +64,7 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 
 ### Google Docs
 
--[Propuesta de Memoria DCC](https://docs.google.com/document/d/14j0ChugSPxWdLPIpCBONfjBambO37cn_wqblJT1b8Cw/edit?usp=sharing) - Template para propuestas de tema de memoria ("El E", CC6908)
+- [Propuesta de Memoria DCC](https://docs.google.com/document/d/14j0ChugSPxWdLPIpCBONfjBambO37cn_wqblJT1b8Cw/edit?usp=sharing) - Template para propuestas de tema de memoria ("El E", CC6908)
 
 ## Otros
 
