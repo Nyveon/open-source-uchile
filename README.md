@@ -42,15 +42,17 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 
 ## Cursos
 
-- [CC3001 - Algoritmos y Estructuras de Datos](https://github.com/ivansipiran/AED-Apuntes) - Apunte digital de la materia y ejercicios. 
-- [CC4001/CC4002 - Taller de Programación](https://uchile.progcomp.cl) - Apunte digital de la materia.
-- [CC4005/CC4006 - Taller de Programación Competitiva](https://uchile.progcomp.cl) - Apunte digital de la materia.
-- [CC4901/CC5901 - Práctica Profesional I/II](https://github.com/ivansipiran/PracticaProfesional) - Ejemplos y rubricas.
-- [CC5205 - Minería de Datos](https://github.com/dccuchile/CC5205) - Videos grabados, calendario del curso y bibliografía.
-- [CC5235 - Taller de Hacking Competitivo](https://tallerdehacking.dcc.uchile.cl) - Videos grabados, apunte digital y evaluaciones anteriores.
-- [CC6104 - Pensamiento Estadístico](https://github.com/dccuchile/CC6104) - Videos grabados, indicaciones y bibliografía.
-- [CC6204 - Deep Learning](https://github.com/dccuchile/CC6204) - Videos grabados, indicaciones y bibliografía.
-- [CC6205 - Procesamiento de Lenguaje Natural](https://github.com/dccuchile/CC6205) - Videos grabados, calendario del curso, indicaciones y bibliografía.
+| Código | Curso                             | Apunte | Videos | Otro |
+|--------|-----------------------------------|--------|--------|------------|
+| CC3001 | Algoritmos y Estructuras de Datos | [Colab](https://github.com/ivansipiran/AED-Apuntes) | ❌ | [Ejercicios](https://github.com/ivansipiran/AED-Apuntes) |
+| CC4001/CC4002 | Taller de Programación A/B  | [Web](https://uchile.progcomp.cl) | ❌ | ❌ |
+| CC4901/CC4902 | Taller de Programación Competitiva A/B | [Web](https://uchile.progcomp.cl) | ❌ | ❌ |
+| CC4901/CC5901 | Práctica Profesional I/II | [Ejemplos y Rubricas](https://github.com/ivansipiran/PracticaProfesional) | ❌ | ❌ |
+| CC5205 | Minería de Datos | ❌ | [Youtube](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda) | [Organización del Curso](https://github.com/dccuchile/CC5205) |
+| CC5235 | Taller de Hacking Competitivo | [Web](https://tallerdehacking.dcc.uchile.cl/docs/prologo/intro/) | [Web](https://tallerdehacking.dcc.uchile.cl/blog/) | [Evaluaciones Anteriores](https://tallerdehacking.dcc.uchile.cl/tareas/) |
+| CC6104 | Pensamiento Estadístico | ❌ | [Youtube](https://www.youtube.com/playlist?list=PLppKo85eGXiXpvRVYM5ZJEHWWofjzuiXw) | [Organización del Curso](https://github.com/dccuchile/CC6104) |
+| CC6204 | Deep Learning | ❌ | [Youtube](https://www.youtube.com/playlist?list=PLBjZ-ginWc1e0_Dp4heHglsjJmacV_F20) | [Organización del Curso](https://github.com/dccuchile/CC6204) |
+| CC6205 | Procesamiento de Lenguaje Natural | ❌ | [Youtube](https://www.youtube.com/playlist?list=PLppKo85eGXiXIh54H_qz48yHPHeNVJqBi) | [Organización del Curso](https://github.com/dccuchile/CC6205) |
 
 ## Otros
 
