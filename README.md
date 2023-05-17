@@ -62,6 +62,10 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
   - [Tesis](https://github.com/Template-Latex/Template-Tesis/) - Para tesis o memoria.
   - [CV](https://github.com/Template-Latex/Professional-CV/) - Para curriculum vitae.
 
+### Google Docs
+
+-[Propuesta de Memoria DCC](https://docs.google.com/document/d/14j0ChugSPxWdLPIpCBONfjBambO37cn_wqblJT1b8Cw/edit?usp=sharing) - Template para propuestas de tema de memoria ("El E", CC6908)
+
 ## Otros
 
 - [LogosFCFM](https://github.com/mmattamala/LogosFCFM) - Repositorio con logos de la FCFM, sus departamentos y organizaciónes. Archivos PNG, EPS y SVG. 
