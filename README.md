@@ -45,6 +45,7 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 | Código | Curso                             | Apunte | Videos | Otro |
 |--------|-----------------------------------|--------|--------|------------|
 | CC3001 | Algoritmos y Estructuras de Datos | [Colab](https://github.com/ivansipiran/AED-Apuntes) | ❌ | [Ejercicios](https://github.com/ivansipiran/AED-Apuntes) |
+| CC4101 | Lenguajes de Programación | [PDF](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/plai-2007-04-26.pdf) | [Youtube](https://www.youtube.com/playlist?list=PLv3byGkm6N0CvCRaQTB52oazPrvz6PsBe) | [Organización del Curso](https://pleiad.cl/teaching/cc4101) |
 | CC4001/CC4002 | Taller de Programación A/B  | [Web](https://uchile.progcomp.cl) | ❌ | ❌ |
 | CC4901/CC4902 | Taller de Programación Competitiva A/B | [Web](https://uchile.progcomp.cl) | ❌ | ❌ |
 | CC4901/CC5901 | Práctica Profesional I/II | [Ejemplos y Rubricas](https://github.com/ivansipiran/PracticaProfesional) | ❌ | ❌ |
