@@ -47,6 +47,7 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 | CC3001 | Algoritmos y Estructuras de Datos | [Colab](https://github.com/ivansipiran/AED-Apuntes) |  | [Ejercicios](https://github.com/ivansipiran/AED-Apuntes) |
 | CC3101 | Matemáticas Discretas |  | [Youtube](https://www.youtube.com/playlist?list=PLKUV14d0mKnWkuVBiWsbQozxzL73NPpKQ) | [Repositorio](https://github.com/ahevia/CC3101_2021) |
 | CC3102 | Teoría de la Computación | [PDF](https://users.dcc.uchile.cl/~gnavarro/apunte.html) | [Youtube](https://www.youtube.com/watch?v=JCKjRHaXARk&list=PLBjZ-ginWc1e2uAYgOYdN3fPE9DpiPZ1Z) | [Repositorio](https://github.com/ahevia/cc3102_2020) |
+| CC3201 | Bases de Datos | | [Youtube](https://www.youtube.com/watch?v=HA0OkRL5Lgw&list=PLtyTzdvtouzW2Nos2s4SptkwE5pLpOrbm) | [Wiki proyectos](https://wiki.dcc.uchile.cl/cc3201/doku.php?id=proyecto:inicio) |
 | CC4101 | Lenguajes de Programación | [PDF](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/plai-2007-04-26.pdf) | [Youtube](https://www.youtube.com/playlist?list=PLv3byGkm6N0CvCRaQTB52oazPrvz6PsBe) | [Web](https://pleiad.cl/teaching/cc4101) |
 | CC4001/CC4002 | Taller de Programación A/B  | [Web](https://uchile.progcomp.cl) |  |  |
 | CC4901/CC4902 | Taller de Programación Competitiva A/B | [Web](https://uchile.progcomp.cl) |  |  |
