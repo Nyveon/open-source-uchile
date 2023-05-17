@@ -52,11 +52,14 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 | CC4901/CC4902 | Taller de Programación Competitiva A/B | [Web](https://uchile.progcomp.cl) |  |  |
 | CC4901/CC5901 | Práctica Profesional I/II | [Repositorio](https://github.com/ivansipiran/PracticaProfesional) |  |  |
 | CC5205 | Minería de Datos |  | [Youtube](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda) | [Repositorio](https://github.com/dccuchile/CC5205) |
+| CC5231 | Recuperación de Información Multimedia | | [Youtube](https://www.youtube.com/@JuanManuelBarrios/videos)* | |
 | CC5235 | Taller de Hacking Competitivo | [Web](https://tallerdehacking.dcc.uchile.cl/docs/prologo/intro/) | [Web](https://tallerdehacking.dcc.uchile.cl/blog/) | [Evaluaciones](https://tallerdehacking.dcc.uchile.cl/tareas/) |
 | CC5301 | Introducción a la Criptografía Moderna | | | [Repositorio](https://github.com/ahevia/cc5301_2023) |
 | CC6104 | Pensamiento Estadístico |  | [Youtube](https://www.youtube.com/playlist?list=PLppKo85eGXiXpvRVYM5ZJEHWWofjzuiXw) | [Repositorio](https://github.com/dccuchile/CC6104) |
 | CC6204 | Deep Learning |  | [Youtube](https://www.youtube.com/playlist?list=PLBjZ-ginWc1e0_Dp4heHglsjJmacV_F20) | [Repositorio](https://github.com/dccuchile/CC6204) |
 | CC6205 | Procesamiento de Lenguaje Natural |  | [Youtube](https://www.youtube.com/playlist?list=PLppKo85eGXiXIh54H_qz48yHPHeNVJqBi) | [Repositorio](https://github.com/dccuchile/CC6205) |
+
+*: Sin playlist
 
 ## Otros
 
