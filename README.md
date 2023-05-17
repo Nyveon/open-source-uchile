@@ -44,16 +44,19 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 
 | Código | Curso                             | Apunte | Videos | Otro |
 |--------|-----------------------------------|--------|--------|------------|
-| CC3001 | Algoritmos y Estructuras de Datos | [Colab](https://github.com/ivansipiran/AED-Apuntes) | ❌ | [Ejercicios](https://github.com/ivansipiran/AED-Apuntes) |
-| CC4101 | Lenguajes de Programación | [PDF](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/plai-2007-04-26.pdf) | [Youtube](https://www.youtube.com/playlist?list=PLv3byGkm6N0CvCRaQTB52oazPrvz6PsBe) | [Organización del Curso](https://pleiad.cl/teaching/cc4101) |
-| CC4001/CC4002 | Taller de Programación A/B  | [Web](https://uchile.progcomp.cl) | ❌ | ❌ |
-| CC4901/CC4902 | Taller de Programación Competitiva A/B | [Web](https://uchile.progcomp.cl) | ❌ | ❌ |
-| CC4901/CC5901 | Práctica Profesional I/II | [Ejemplos y Rubricas](https://github.com/ivansipiran/PracticaProfesional) | ❌ | ❌ |
-| CC5205 | Minería de Datos | ❌ | [Youtube](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda) | [Organización del Curso](https://github.com/dccuchile/CC5205) |
-| CC5235 | Taller de Hacking Competitivo | [Web](https://tallerdehacking.dcc.uchile.cl/docs/prologo/intro/) | [Web](https://tallerdehacking.dcc.uchile.cl/blog/) | [Evaluaciones Anteriores](https://tallerdehacking.dcc.uchile.cl/tareas/) |
-| CC6104 | Pensamiento Estadístico | ❌ | [Youtube](https://www.youtube.com/playlist?list=PLppKo85eGXiXpvRVYM5ZJEHWWofjzuiXw) | [Organización del Curso](https://github.com/dccuchile/CC6104) |
-| CC6204 | Deep Learning | ❌ | [Youtube](https://www.youtube.com/playlist?list=PLBjZ-ginWc1e0_Dp4heHglsjJmacV_F20) | [Organización del Curso](https://github.com/dccuchile/CC6204) |
-| CC6205 | Procesamiento de Lenguaje Natural | ❌ | [Youtube](https://www.youtube.com/playlist?list=PLppKo85eGXiXIh54H_qz48yHPHeNVJqBi) | [Organización del Curso](https://github.com/dccuchile/CC6205) |
+| CC3001 | Algoritmos y Estructuras de Datos | [Colab](https://github.com/ivansipiran/AED-Apuntes) |  | [Ejercicios](https://github.com/ivansipiran/AED-Apuntes) |
+| CC3101 | Matemáticas Discretas |  | [Youtube](https://www.youtube.com/playlist?list=PLKUV14d0mKnWkuVBiWsbQozxzL73NPpKQ) | [Repositorio](https://github.com/ahevia/CC3101_2021) |
+| CC3102 | Teoría de la Computación | [PDF](https://users.dcc.uchile.cl/~gnavarro/apunte.html) | [Youtube](https://www.youtube.com/watch?v=JCKjRHaXARk&list=PLBjZ-ginWc1e2uAYgOYdN3fPE9DpiPZ1Z) | [Repositorio](https://github.com/ahevia/cc3102_2020) |
+| CC4101 | Lenguajes de Programación | [PDF](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/plai-2007-04-26.pdf) | [Youtube](https://www.youtube.com/playlist?list=PLv3byGkm6N0CvCRaQTB52oazPrvz6PsBe) | [Web](https://pleiad.cl/teaching/cc4101) |
+| CC4001/CC4002 | Taller de Programación A/B  | [Web](https://uchile.progcomp.cl) |  |  |
+| CC4901/CC4902 | Taller de Programación Competitiva A/B | [Web](https://uchile.progcomp.cl) |  |  |
+| CC4901/CC5901 | Práctica Profesional I/II | [Repositorio](https://github.com/ivansipiran/PracticaProfesional) |  |  |
+| CC5205 | Minería de Datos |  | [Youtube](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda) | [Repositorio](https://github.com/dccuchile/CC5205) |
+| CC5235 | Taller de Hacking Competitivo | [Web](https://tallerdehacking.dcc.uchile.cl/docs/prologo/intro/) | [Web](https://tallerdehacking.dcc.uchile.cl/blog/) | [Evaluaciones](https://tallerdehacking.dcc.uchile.cl/tareas/) |
+| CC5301 | Introducción a la Criptografía Moderna | | | [Repositorio](https://github.com/ahevia/cc5301_2023) |
+| CC6104 | Pensamiento Estadístico |  | [Youtube](https://www.youtube.com/playlist?list=PLppKo85eGXiXpvRVYM5ZJEHWWofjzuiXw) | [Repositorio](https://github.com/dccuchile/CC6104) |
+| CC6204 | Deep Learning |  | [Youtube](https://www.youtube.com/playlist?list=PLBjZ-ginWc1e0_Dp4heHglsjJmacV_F20) | [Repositorio](https://github.com/dccuchile/CC6204) |
+| CC6205 | Procesamiento de Lenguaje Natural |  | [Youtube](https://www.youtube.com/playlist?list=PLppKo85eGXiXIh54H_qz48yHPHeNVJqBi) | [Repositorio](https://github.com/dccuchile/CC6205) |
 
 ## Otros
 
