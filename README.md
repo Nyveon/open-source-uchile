@@ -39,11 +39,16 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 - [tU-Cursos](https://github.com/Nyveon/tU-Cursos) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos.
 - [CatalogoFCFMBot](https://github.com/scisneros/catalogo-fcfm-bot) - Bot de telegram que avisa sobre cambios en el catalogo de cursos.
 
-### DCC
+### Impresiones
 
+- [DCC Tools](https://github.com/tvillega/dcc-tools) - Utilidad de linea de comandos para simplificar el uso de las impresoras del DCC.
 - [ImpresionesDCC GUI](https://github.com/Gonxolo/ImpresionesDCC-GUI) - Interfaz gráfica de escritorio para usar las impresoras del DCC.
-- [ImpresionesDCC Web](https://github.com/Gonxolo/ImpresionesDCC) - Interfaz web para generar los comandos para usar las impresoras del DCC.
-- [MallaDCC](https://github.com/cadcc/malla-dcc) - Visualización de la malla DCC v3 y v5.
+- [ImpresionesDCC Web](https://github.com/Gonxolo/ImpresionesDCC) - Interfaz web para pre-generar los comandos para usar las impresoras del DCC.
+
+### Mallas y Ramos
+
+- [MallaDCC](https://github.com/cadcc/malla-dcc) - Visualización de la malla DCC v3 y v5, con pre-requisitos.
+- [malla-fcfm](https://malla.eri.cl/DCC) - Visualización de malla DCC v5, con grafo de dependencias de ramos.
 
 ## Templates
 
