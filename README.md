@@ -37,17 +37,17 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 ### Generales
 
 - [tU-Cursos](https://github.com/Nyveon/tU-Cursos) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos.
-- [CatalogoFCFMBot](https://github.com/scisneros/catalogo-fcfm-bot) - Bot de telegram que avisa sobre cambios en el catalogo de cursos.
+- [CatalogoFCFMBot](https://github.com/scisneros/catalogo-fcfm-bot) - Bot de Telegram que avisa sobre cambios en el catálogo de cursos.
 
 ### Impresiones
 
-- [DCC Tools](https://github.com/tvillega/dcc-tools) - Utilidad de linea de comandos para simplificar el uso de las impresoras del DCC.
+- [DCC Tools](https://github.com/tvillega/dcc-tools) - Utilidad de línea de comandos para simplificar el uso de las impresoras del DCC.
 - [ImpresionesDCC GUI](https://github.com/Gonxolo/ImpresionesDCC-GUI) - Interfaz gráfica de escritorio para usar las impresoras del DCC.
 - [ImpresionesDCC Web](https://github.com/Gonxolo/ImpresionesDCC) - Interfaz web para pre-generar los comandos para usar las impresoras del DCC.
 
 ### Mallas y Ramos
 
-- [MallaDCC](https://github.com/cadcc/malla-dcc) - Visualización de la malla DCC v3 y v5, con pre-requisitos.
+- [MallaDCC](https://github.com/cadcc/malla-dcc) - Visualización de la malla DCC v3 y v5, con prerrequisitos.
 - [malla-fcfm](https://malla.eri.cl/DCC) - Visualización de malla DCC v5, con grafo de dependencias de ramos.
 
 ## Templates
@@ -61,11 +61,11 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
   - [Auxiliares](https://github.com/Template-Latex/Template-Auxiliares/) - Para enunciados de auxiliares.
   - [Controles](https://github.com/Template-Latex/Template-Controles/) - Para enunciados de controles.
   - [Informe](https://github.com/Template-Latex/Template-Informe/) - Para tareas y trabajos.
-  - [Poster](https://github.com/Template-Latex/Template-Poster/) - Para pósters académicos.
+  - [Poster](https://github.com/Template-Latex/Template-Poster/) - Para posters académicos.
   - [Presentacion](https://github.com/Template-Latex/Template-Presentacion/) - Para presentaciones.
   - [Reporte](https://github.com/Template-Latex/Template-Reporte/) - Para reportes.
   - [Tesis](https://github.com/Template-Latex/Template-Tesis/) - Para tesis o memoria.
-  - [CV](https://github.com/Template-Latex/Professional-CV/) - Para curriculum vitae.
+  - [CV](https://github.com/Template-Latex/Professional-CV/) - Para Curriculum vitae.
 
 ### Google Docs
 
@@ -73,10 +73,12 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 
 ## Otros
 
-- [LogosFCFM](https://github.com/mmattamala/LogosFCFM) - Repositorio con logos de la FCFM, sus departamentos y organizaciónes. Archivos PNG, EPS y SVG. 
+- [LogosFCFM](https://github.com/mmattamala/LogosFCFM) - Repositorio con logos de la FCFM, sus departamentos y organizaciones. Archivos PNG, EPS y SVG. 
 - [FAQ CaDCC](https://github.com/cadcc/howto) - Página de preguntas frecuentes del DCC, incluyendo preguntas de mechones, titulación y el paseo DCC.
 - [RepoDCC](https://github.com/cadcc/RepoDCC) - Video-capsulas de resolución de problemas.
 
 ## Contribuciones
 
-Si hay algún proyecto que no está listado aquí, crea un issue mencionándolo (o directamente haz un pull request agregándolo a la lista). Esto es más un catálogo que una lista dirigida, así que siéntanse en libertad de agregar cosas.
+Si hay algún proyecto que no está listado aquí, puedes sugerirlo [aquí](https://github.com/Nyveon/open-source-uchile/issues/new?assignees=&labels=&projects=&template=sugerir-recurso.md&title=).
+
+Open Source UChile es más un catálogo que una lista dirigida. Siéntanse en libertad de sugerir cualquier tipo de cosa, mientras sea relevante a la universidad. Preferiblemente cosas open source o de libre acceso, para seguir con la temática Open Source. Estar abierto a contribuciones o estar en GitHub no son requisitos excluyentes, solo bonus.
