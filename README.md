@@ -71,6 +71,10 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 
 - [Propuesta de Memoria DCC](https://docs.google.com/document/d/14j0ChugSPxWdLPIpCBONfjBambO37cn_wqblJT1b8Cw/edit?usp=sharing) - Template para propuestas de tema de memoria ("El E", CC6908)
 
+### Typst
+
+- [typst-fcfm](https://github.com/bkorecic/typst-fcfm/) - Template para auxiliares, controles y pautas.
+
 ## Otros
 
 - [LogosFCFM](https://github.com/mmattamala/LogosFCFM) - Repositorio con logos de la FCFM, sus departamentos y organizaciones. Archivos PNG, EPS y SVG. 
