@@ -55,7 +55,8 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 ### Latex
 
 - [Memorias y Tesis FCFM](https://github.com/dccuchile/memoria-tesis-latex) - Template oficial para memorias y tesis FCFM.
-- [Slatex](https://github.com/r8vnhill/slatex) - Template flexible y ligero para documentos académicos. 
+- [Slatex](https://github.com/r8vnhill/slatex) - Template flexible y ligero para documentos académicos.
+- [Template de edward-kings](https://github.com/edward-kings/latex-template) - Template ligero y flexible para trabajos universitarios.
 - [Templates de Pablo Pizarro](https://latex.ppizarror.com) Familia de templates en LaTeX para múltiples propósitos. Incluyen una gran cantidad de funcionalidades y formato pre-hecho.
   - [Articulo](https://github.com/Template-Latex/Template-Articulo/) - Para artículos académicos.
   - [Auxiliares](https://github.com/Template-Latex/Template-Auxiliares/) - Para enunciados de auxiliares.
