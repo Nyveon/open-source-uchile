@@ -75,6 +75,7 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 ### Typst
 
 - [typst-fcfm](https://github.com/bkorecic/typst-fcfm/) - Template para auxiliares, controles y pautas.
+- [Template Informe Memoria FCFM](https://github.com/PuntitOwO/template-informe-memoria-fcfm) - Template para propuestas e informes de memoria FCFM. Versión typst del template oficial en latex.
 
 ## Otros
 
