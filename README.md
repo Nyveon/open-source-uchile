@@ -21,7 +21,7 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 | CC4101 | Lenguajes de Programación | [PDF](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/plai-2007-04-26.pdf) | [Youtube](https://www.youtube.com/playlist?list=PLv3byGkm6N0CvCRaQTB52oazPrvz6PsBe) | [Web](https://pleiad.cl/teaching/cc4101) |
 | CC4001/CC4002 | Taller de Programación A/B  | [Web](https://uchile.progcomp.cl) |  |  |
 | CC4901/CC4902 | Taller de Programación Competitiva A/B | [Web](https://uchile.progcomp.cl) |  |  |
-| CC4901/CC5901 | Práctica Profesional I/II | [Repositorio](https://github.com/ivansipiran/PracticaProfesional) |  |  |
+| CC4901/CC5901 | Práctica Profesional I/II | [Web](https://practicas.dcc.uchile.cl/wp/) |  | [Repositorio](https://github.com/ivansipiran/PracticaProfesional) (viejo) |
 | CC5205 | Minería de Datos |  | [Youtube](https://www.youtube.com/playlist?list=PLKUV14d0mKnUXXfmhqqZdcsNGAuV2GZda) | [Repositorio](https://github.com/dccuchile/CC5205) |
 | CC5231 | Recuperación de Información Multimedia | | [Youtube](https://www.youtube.com/@JuanManuelBarrios/videos)* | [Repositorio](https://github.com/juanbarrios/Curso-Recuperacion-de-Informacion-Multimedia) |
 | CC5235 | Taller de Hacking Competitivo | [Web](https://tallerdehacking.dcc.uchile.cl/docs/prologo/intro/) | [Web](https://tallerdehacking.dcc.uchile.cl/blog/) | [Evaluaciones](https://tallerdehacking.dcc.uchile.cl/tareas/) |
