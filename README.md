@@ -36,6 +36,7 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 
 ### Generales
 
+- [U-Cursedn't](https://github.com/matias-saavedra-g/ucursednt) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos.
 - [tU-Cursos](https://github.com/Nyveon/tU-Cursos) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos.
 - [CatalogoFCFMBot](https://github.com/scisneros/catalogo-fcfm-bot) - Bot de Telegram que avisa sobre cambios en el catálogo de cursos.
 
