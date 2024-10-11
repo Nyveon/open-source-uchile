@@ -46,10 +46,14 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 - [ImpresionesDCC GUI](https://github.com/Gonxolo/ImpresionesDCC-GUI) - Interfaz gráfica de escritorio para usar las impresoras del DCC.
 - [ImpresionesDCC Web](https://github.com/Gonxolo/ImpresionesDCC) - Interfaz web para pre-generar los comandos para usar las impresoras del DCC.
 
-### Mallas y Ramos
+### Mallas y ramos
 
 - [MallaDCC](https://github.com/cadcc/malla-dcc) - Visualización de la malla DCC v3 y v5, con prerrequisitos.
 - [malla-fcfm](https://malla.eri.cl/DCC) - Visualización de malla DCC v5, con grafo de dependencias de ramos.
+
+### Equipos docentes
+
+- [Rubricator3000](https://github.com/Nyveon/rubricator3000) - Editor visual de rúbricas evaluativas definidas en JSON 
 
 ## Templates
 
