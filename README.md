@@ -36,13 +36,13 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 
 ### Generales
 
-- [U-Cursedn't](https://github.com/matias-saavedra-g/ucursednt) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos.
+- [U-Cursedn't](https://github.com/matias-saavedra-g/ucursednt) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos, continuación de tU-Cursos.
 - [tU-Cursos](https://github.com/Nyveon/tU-Cursos) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos.
 - [CatalogoFCFMBot](https://github.com/scisneros/catalogo-fcfm-bot) - Bot de Telegram que avisa sobre cambios en el catálogo de cursos.
 
-### Impresiones
+### Impresiones y servidores DCC
 
-- [DCC Tools](https://github.com/tvillega/dcc-tools) - Utilidad de línea de comandos para simplificar el uso de las impresoras del DCC.
+- [DCC Tools](https://github.com/tvillega/dcc-tools) - Scripts para manejar más facilmente el servidor del departamento..
 - [ImpresionesDCC GUI](https://github.com/Gonxolo/ImpresionesDCC-GUI) - Interfaz gráfica de escritorio para usar las impresoras del DCC.
 - [ImpresionesDCC Web](https://github.com/Gonxolo/ImpresionesDCC) - Interfaz web para pre-generar los comandos para usar las impresoras del DCC.
 
@@ -51,7 +51,7 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 - [MallaDCC](https://github.com/cadcc/malla-dcc) - Visualización de la malla DCC v3 y v5, con prerrequisitos.
 - [malla-fcfm](https://malla.eri.cl/DCC) - Visualización de malla DCC v5, con grafo de dependencias de ramos.
 
-### Equipos docentes
+### Docentes
 
 - [Rubricator3000](https://github.com/Nyveon/rubricator3000) - Editor visual de rúbricas evaluativas definidas en JSON 
 
