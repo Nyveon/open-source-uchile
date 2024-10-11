@@ -76,6 +76,7 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 ### Typst
 
 - [Enunciado Facil FCFM](https://github.com/bkorecic/enunciado-facil-fcfm) - Template para auxiliares, controles y pautas.
+- [Minerva Report FCFM](https://github.com/Dav1com/minerva-report-fcfm) - Template para tareas, informes y trabajos.
 - [Template Informe Memoria FCFM](https://github.com/PuntitOwO/template-informe-memoria-fcfm) - Template para propuestas e informes de memoria FCFM. Versión typst del template oficial en latex.
 - [Template Informe Práctica FCFM](https://github.com/PuntitOwO/template-informe-practica-fcfm) - Template para informes de práctica FCFM.
 
