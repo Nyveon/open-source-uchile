@@ -49,6 +49,7 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 ### Mallas y ramos
 
 - [MallaDCC](https://github.com/cadcc/malla-dcc) - Visualización de la malla DCC v3 y v5, con prerrequisitos.
+- [Mallas-fcfm-fgonzalezurriola](https://mallas-fcfm-fgonzalezurriola.vercel.app/) - Visualización de algunas mallas de la FCFM con prerrequisitos.
 - [malla-fcfm](https://malla.eri.cl/DCC) - Visualización de malla DCC v5, con grafo de dependencias de ramos.
 
 ### Docentes
