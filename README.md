@@ -37,14 +37,15 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 ### Datos y recursos
 
 - [LogosFCFM](https://github.com/mmattamala/LogosFCFM) - Repositorio con logos de la FCFM, sus departamentos y organizaciones. Archivos PNG, EPS y SVG.
+- [dcc-size](https://poblacion.eri.cl/) - Visualización de la población del DCC a lo largo de los años.
 
 ### Herramientas docentes
 
-- [Rubricator3000](https://github.com/Nyveon/rubricator3000) - Editor visual de rúbricas evaluativas definidas en JSON
+- [Rubricator3000](https://github.com/Nyveon/rubricator3000) - Editor visual de rúbricas evaluativas definidas en JSON.
 
 ### Impresiones y servidores DCC
 
-- [DCC Tools](https://github.com/tvillega/dcc-tools) - Scripts para manejar más facilmente el servidor del departamento..
+- [DCC Tools](https://github.com/tvillega/dcc-tools) - Scripts para manejar más facilmente el servidor del departamento.
 - [ImpresionesDCC GUI](https://github.com/Gonxolo/ImpresionesDCC-GUI) - Interfaz gráfica de escritorio para usar las impresoras del DCC.
 - [ImpresionesDCC Web](https://github.com/Gonxolo/ImpresionesDCC) - Interfaz web para pre-generar los comandos para usar las impresoras del DCC.
 
