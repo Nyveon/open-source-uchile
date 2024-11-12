@@ -55,9 +55,10 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 - [FAQ CaDCC](https://github.com/cadcc/howto) - Página de preguntas frecuentes del DCC, incluyendo preguntas de mechones, titulación y el paseo DCC.
 - [RepoDCC](https://github.com/cadcc/RepoDCC) - Video-capsulas de resolución de problemas.
 
-### Mallas y ramos
+### Mallas
 
 - [MallaDCC](https://github.com/cadcc/malla-dcc) - Visualización de la malla DCC v3 y v5, con prerrequisitos.
+- [MallaInteractivaFCFM](https://mallas.mikael.cl/) - Malla interactiva que permite marcar y guardar el avance en la carrera que además muestra los pre-requisitos de cada ramo y los ramos disponibles según el avance actual.
 - [Mallas-fcfm-fgonzalezurriola](https://mallas-fcfm-fgonzalezurriola.vercel.app/) - Visualización de algunas mallas de la FCFM con prerrequisitos.
 - [malla-fcfm](https://malla.eri.cl/DCC) - Visualización de malla DCC v5, con grafo de dependencias de ramos.
 
