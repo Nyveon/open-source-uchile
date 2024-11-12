@@ -6,9 +6,9 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 ## Índice
 
 1. [Cursos](#cursos)
-1. [Herramientas](#herramientas)
+1. [Proyectos](#proyectos)
 1. [Templates](#templates)
-1. [Otros](#otros)
+1. [Contribuciones](#contribuciones)
 
 ## Cursos
 
@@ -32,13 +32,15 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 
 *: Sin playlist
 
-## Herramientas
+## Proyectos
 
-### Generales
+### Datos y recursos
 
-- [CatalogoFCFMBot](https://github.com/scisneros/catalogo-fcfm-bot) - Bot de Telegram que avisa sobre cambios en el catálogo de cursos.
-- [U-Cursedn't](https://github.com/matias-saavedra-g/ucursednt) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos, continuación de tU-Cursos.
-- [tU-Cursos](https://github.com/Nyveon/tU-Cursos) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos.
+- [LogosFCFM](https://github.com/mmattamala/LogosFCFM) - Repositorio con logos de la FCFM, sus departamentos y organizaciones. Archivos PNG, EPS y SVG.
+
+### Herramientas docentes
+
+- [Rubricator3000](https://github.com/Nyveon/rubricator3000) - Editor visual de rúbricas evaluativas definidas en JSON
 
 ### Impresiones y servidores DCC
 
@@ -46,15 +48,23 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 - [ImpresionesDCC GUI](https://github.com/Gonxolo/ImpresionesDCC-GUI) - Interfaz gráfica de escritorio para usar las impresoras del DCC.
 - [ImpresionesDCC Web](https://github.com/Gonxolo/ImpresionesDCC) - Interfaz web para pre-generar los comandos para usar las impresoras del DCC.
 
+### Informaciónes y guías
+
+- [FAQ CaDCC](https://github.com/cadcc/howto) - Página de preguntas frecuentes del DCC, incluyendo preguntas de mechones, titulación y el paseo DCC.
+- [RepoDCC](https://github.com/cadcc/RepoDCC) - Video-capsulas de resolución de problemas.
+
 ### Mallas y ramos
 
 - [MallaDCC](https://github.com/cadcc/malla-dcc) - Visualización de la malla DCC v3 y v5, con prerrequisitos.
 - [Mallas-fcfm-fgonzalezurriola](https://mallas-fcfm-fgonzalezurriola.vercel.app/) - Visualización de algunas mallas de la FCFM con prerrequisitos.
 - [malla-fcfm](https://malla.eri.cl/DCC) - Visualización de malla DCC v5, con grafo de dependencias de ramos.
 
-### Docentes
+### U-Cursos y Ucampus
 
-- [Rubricator3000](https://github.com/Nyveon/rubricator3000) - Editor visual de rúbricas evaluativas definidas en JSON 
+- [CatalogoFCFMBot](https://github.com/scisneros/catalogo-fcfm-bot) - Bot de Telegram que avisa sobre cambios en el catálogo de cursos.
+- [U-Cursedn't](https://github.com/matias-saavedra-g/ucursednt) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos, continuación de tU-Cursos.
+- [tU-Cursos](https://github.com/Nyveon/tU-Cursos) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos.
+
 
 ## Templates
 
@@ -84,12 +94,6 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 - [Minerva Report FCFM](https://github.com/Dav1com/minerva-report-fcfm) - Template para tareas, informes y trabajos.
 - [Template Informe Memoria FCFM](https://github.com/PuntitOwO/template-informe-memoria-fcfm) - Template para propuestas e informes de memoria FCFM. Versión typst del template oficial en latex.
 - [Template Informe Práctica FCFM](https://github.com/PuntitOwO/template-informe-practica-fcfm) - Template para informes de práctica FCFM.
-
-## Otros
-
-- [FAQ CaDCC](https://github.com/cadcc/howto) - Página de preguntas frecuentes del DCC, incluyendo preguntas de mechones, titulación y el paseo DCC.
-- [LogosFCFM](https://github.com/mmattamala/LogosFCFM) - Repositorio con logos de la FCFM, sus departamentos y organizaciones. Archivos PNG, EPS y SVG. 
-- [RepoDCC](https://github.com/cadcc/RepoDCC) - Video-capsulas de resolución de problemas.
 
 ## Contribuciones
 
