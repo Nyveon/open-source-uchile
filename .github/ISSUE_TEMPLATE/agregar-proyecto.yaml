@@ -1,4 +1,4 @@
-name: Sugerir un proyecto
+name: Agregar un proyecto
 description: Sugerir un nuevo proyecto open source para el catálogo
 title: "[Proyecto]: "
 body:
@@ -6,19 +6,21 @@ body:
   attributes:
     label: Nombre
     description: El nombre del repositorio o proyecto.
-    placeholder: No tiene que ser exacto. Por ejemplo, un repo llamado `malla-fcfm` podría aparecer como `Malla FCFM` en la lista
+    placeholder: No tiene que ser exacto. Por ejemplo, un repo llamado `malla-fcfm` podría aparecer como `Malla FCFM` en la lista.
   validations:
     required: true
 - type: textarea
   attributes:
     label: Descripción
-    description: Una descripción corta de qué es el recurso y para qué sirve. Ojalá nombre + descripción no supere los ~100 cáracteres
+    description: Una descripción corta.
+    placeholder: ¿Qué es y para qué sirve? Ojalá no supere los ~80 cáracteres.
   validations:
     required: true
 - type: textarea
   attributes:
     label: Link
-    description: Link al repositorio y/o página web. Si es link a la página web, ojalá la página en sí incluya un link al repositorio en algún lado
+    description: Link al repositorio y/o página web.
+    placeholder: Si es link a una página web, ojalá la página incluya un link al repositorio en algún lado.
   validations:
     required: true
 - type: dropdown
