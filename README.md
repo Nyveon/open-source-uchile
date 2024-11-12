@@ -36,9 +36,9 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 
 ### Generales
 
+- [CatalogoFCFMBot](https://github.com/scisneros/catalogo-fcfm-bot) - Bot de Telegram que avisa sobre cambios en el catálogo de cursos.
 - [U-Cursedn't](https://github.com/matias-saavedra-g/ucursednt) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos, continuación de tU-Cursos.
 - [tU-Cursos](https://github.com/Nyveon/tU-Cursos) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos.
-- [CatalogoFCFMBot](https://github.com/scisneros/catalogo-fcfm-bot) - Bot de Telegram que avisa sobre cambios en el catálogo de cursos.
 
 ### Impresiones y servidores DCC
 
@@ -87,8 +87,8 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 
 ## Otros
 
-- [LogosFCFM](https://github.com/mmattamala/LogosFCFM) - Repositorio con logos de la FCFM, sus departamentos y organizaciones. Archivos PNG, EPS y SVG. 
 - [FAQ CaDCC](https://github.com/cadcc/howto) - Página de preguntas frecuentes del DCC, incluyendo preguntas de mechones, titulación y el paseo DCC.
+- [LogosFCFM](https://github.com/mmattamala/LogosFCFM) - Repositorio con logos de la FCFM, sus departamentos y organizaciones. Archivos PNG, EPS y SVG. 
 - [RepoDCC](https://github.com/cadcc/RepoDCC) - Video-capsulas de resolución de problemas.
 
 ## Contribuciones
