@@ -1,0 +1,33 @@
+name: Sugerir curso nuevo
+description: Sugerir un curso nuevo con material libre para el catálogo
+body:
+- type: textarea
+  attributes:
+    label: Código
+    description: El código del curso.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Nombre
+    description: El nombre del curso como aparece en Ucampus
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Apunte
+    description: El enlace al apunte (documentación online, libros gratis, colabs, etc.). Dejar vacío si no hay.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Videos
+    description: El enlace a los videos (playlists, páginas con videos, etc.). Dejar vacío si no hay.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Otros recursos
+    description: Enlaces a otros recursos (wikis, repositorios, calendarios, etc.)). Dejar vacío si no hay.
+  validations:
+    required: false
