@@ -37,6 +37,7 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 ### Datos y recursos
 
 - [LogosFCFM](https://github.com/mmattamala/LogosFCFM) - Repositorio con logos de la FCFM, sus departamentos y organizaciones. Archivos PNG, EPS y SVG.
+- [dcc-practicas](https://cadcc.github.io/dcc-practicas/) - Análisis y visualizaciones de las experiencias de prácticas en el DCC, con info y consejos.
 - [dcc-size](https://poblacion.eri.cl/) - Visualización de la población del DCC a lo largo de los años.
 
 ### Herramientas docentes
