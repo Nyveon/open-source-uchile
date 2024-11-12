@@ -1,0 +1,29 @@
+name: Actualizar un curso
+description: Actualizar el material de algún curso
+title: "[Curso]: "
+body:
+- type: textarea
+  attributes:
+    label: Código
+    description: El código del curso
+    placeholder: ej. CC3002
+  validations:
+    required: true
+- type: dropdown
+  id: campos
+  attributes:
+    label: ¿Qué campo/s estás actualizando?
+    multiple: true
+    options:
+      - Código
+      - Nombre
+      - Apunte
+      - Videos
+      - Otro
+- type: textarea
+  attributes:
+    label: Contenido
+    description: El contenido nuevo que debería reemplazar el/los campos
+  validations:
+    required: true
+

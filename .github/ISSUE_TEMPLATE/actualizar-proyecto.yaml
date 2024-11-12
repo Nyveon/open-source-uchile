@@ -1,0 +1,28 @@
+name: Actualizar los datos de un proyecto
+description: Actualizar el material de algún curso
+title: "[Proyecto]: "
+body:
+- type: textarea
+  attributes:
+    label: Nombre
+    description: El nombre del proyecto
+  validations:
+    required: true
+- type: dropdown
+  id: campos
+  attributes:
+    label: ¿Qué campo/s estás actualizando?
+    multiple: true
+    options:
+      - Nombre
+      - Link
+      - Descripción
+      - Categoría
+      - Otro
+- type: textarea
+  attributes:
+    label: Contenido
+    description: El contenido nuevo que debería reemplazar el/los campos
+  validations:
+    required: true
+

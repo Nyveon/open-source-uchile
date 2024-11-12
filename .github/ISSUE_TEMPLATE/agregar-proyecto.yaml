@@ -1,0 +1,43 @@
+name: Sugerir un proyecto
+description: Sugerir un nuevo proyecto open source para el catálogo
+title: "[Proyecto]: "
+body:
+- type: textarea
+  attributes:
+    label: Nombre
+    description: El nombre del repositorio o proyecto.
+    placeholder: No tiene que ser exacto. Por ejemplo, un repo llamado `malla-fcfm` podría aparecer como `Malla FCFM` en la lista
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Descripción
+    description: Una descripción corta de qué es el recurso y para qué sirve. Ojalá nombre + descripción no supere los ~100 cáracteres
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Link
+    description: Link al repositorio y/o página web. Si es link a la página web, ojalá la página en sí incluya un link al repositorio en algún lado
+  validations:
+    required: true
+- type: dropdown
+  id: categorias
+  attributes:
+    label: ¿A que categoría pertenece?
+    multiple: true
+    options:
+      - Nueva categoría (Explicar en la siguiente sección)
+      - Datos y recursos
+      - Herramientas docentes
+      - Impresiones y servidores DCC
+      - Informaciónes y guías
+      - Mallas
+      - U-Cursos y Ucampus
+      - Templates (Latex, Typst, etc.)
+- type: textarea
+  attributes:
+    label: Contexto adicional
+    description: Por si sientes que hay más detalles por agregar
+  validations:
+    required: false
