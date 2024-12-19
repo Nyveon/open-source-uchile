@@ -44,6 +44,7 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 
 - [Catalogo FCFM Bot](https://t.me/CatalogoFCFMBot) - [(repo)](https://github.com/scisneros/catalogo-fcfm-bot) - Bot de Telegram que avisa sobre cambios en el catálogo de cursos.
 - [RamosCC](https://ramos.cadcc.cl/) - [(repo)](https://github.com/cadcc/ramosCC) - Catálogo de cursos DCC con opiniones e información descriptiva agregada por les alumnes.
+- [search-tool-ramosDCC](https://ayanot1.github.io/search-tool-ramosDCC/) - [(repo)](https://github.com/AyanoT1/search-tool-ramosDCC) - Web de busqueda de información de ramos DCC, basado en RamosCC, es una nueva interfaz con las features claves, filtrado y busqueda por input y (casi) los mismos datos.
 
 ### Herramientas docentes
 
