@@ -36,35 +36,36 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 
 ### Datos y recursos
 
-- [LogosFCFM](https://github.com/mmattamala/LogosFCFM) - Repositorio con logos de la FCFM, sus departamentos y organizaciones. Archivos PNG, EPS y SVG.
-- [dcc-practicas](https://cadcc.github.io/dcc-practicas/) - Análisis y visualizaciones de las experiencias de prácticas en el DCC, con info y consejos.
-- [dcc-size](https://poblacion.eri.cl/) - Visualización de la población del DCC a lo largo de los años.
+- [Logos FCFM](https://github.com/mmattamala/LogosFCFM) - Repositorio con logos de la FCFM, sus departamentos y organizaciones. Archivos PNG, EPS y SVG.
+- [Población DCC](https://poblacion.eri.cl/) - [(repo)](https://github.com/Nyveon/dcc-size) - Visualización de la población del DCC a lo largo de los años.
+- [Prácticas DCC](https://cadcc.github.io/dcc-practicas/) - [(repo)](https://github.com/cadcc/dcc-practicas) - Análisis y visualizaciones de las experiencias de prácticas en el DCC, con info y consejos. 
+
 
 ### Herramientas docentes
 
-- [Rubricator3000](https://github.com/Nyveon/rubricator3000) - Editor visual de rúbricas evaluativas definidas en JSON.
+- [Rubricator3000](https://nyveon.github.io/rubricator3000/) - [(repo)](https://github.com/Nyveon/rubricator3000) - Editor visual de rúbricas evaluativas definidas en JSON.
 
 ### Impresiones y servidores DCC
 
 - [DCC Tools](https://github.com/tvillega/dcc-tools) - Scripts para manejar más facilmente el servidor del departamento.
-- [ImpresionesDCC GUI](https://github.com/Gonxolo/ImpresionesDCC-GUI) - Interfaz gráfica de escritorio para usar las impresoras del DCC.
-- [ImpresionesDCC Web](https://github.com/Gonxolo/ImpresionesDCC) - Interfaz web para pre-generar los comandos para usar las impresoras del DCC.
+- [Impresiones DCC GUI](https://github.com/Gonxolo/ImpresionesDCC-GUI) - Interfaz gráfica de escritorio para usar las impresoras del DCC.
+- [Impresiones DCC Web](https://gonxolo.github.io/ImpresionesDCC/) - [(repo)](https://github.com/Gonxolo/ImpresionesDCC) - Interfaz web para pre-generar los comandos para usar las impresoras del DCC. 
 
 ### Informaciónes y guías
 
-- [FAQ CaDCC](https://github.com/cadcc/howto) - Página de preguntas frecuentes del DCC, incluyendo preguntas de mechones, titulación y el paseo DCC.
+- [FAQ CaDCC](https://faq.cadcc.cl/es/latest/) - ([repo](https://github.com/cadcc/howto)) - Página de preguntas frecuentes del DCC, incluyendo preguntas de mechones, titulación y el paseo DCC.
 - [RepoDCC](https://github.com/cadcc/RepoDCC) - Video-capsulas de resolución de problemas.
 
 ### Mallas
 
-- [MallaDCC](https://github.com/cadcc/malla-dcc) - Visualización de la malla DCC v3 y v5, con prerrequisitos.
-- [MallaInteractivaFCFM](https://mallas.mikael.cl/) - Malla interactiva que permite marcar y guardar el avance en la carrera que además muestra los pre-requisitos de cada ramo y los ramos disponibles según el avance actual.
-- [Mallas-fcfm-fgonzalezurriola](https://mallas-fcfm-fgonzalezurriola.vercel.app/) - Visualización de algunas mallas de la FCFM con prerrequisitos.
-- [malla-fcfm](https://malla.eri.cl/DCC) - Visualización de malla DCC v5, con grafo de dependencias de ramos.
+- [MallaDCC](https://malla.cadcc.cl/) - [(repo)](https://github.com/cadcc/malla-dcc) - Visualización de la malla DCC v3 y v5, con prerrequisitos.
+- [MallaInteractivaFCFM](https://mallas.mikael.cl/) - [(repo)](https://github.com/MikaGaete/MallaInteractivaFCFM) - Malla interactiva que permite marcar y guardar el avance en la carrera que además muestra los pre-requisitos de cada ramo y los ramos disponibles según el avance actual.
+- [Mallas-fcfm-fgonzalezurriola](https://mallas-fcfm-fgonzalezurriola.vercel.app/) - [(repo)](https://github.com/fgonzalezurriola/Mallas-Fcfm-fgonzalezurriola) - Visualización de algunas mallas de la FCFM con prerrequisitos.
+- [malla-fcfm](https://malla.eri.cl/DCC) - [(repo)](https://github.com/Nyveon/malla-fcfm) - Visualización de malla DCC v5, con grafo de dependencias de ramos.
 
 ### U-Cursos y Ucampus
 
-- [CatalogoFCFMBot](https://github.com/scisneros/catalogo-fcfm-bot) - Bot de Telegram que avisa sobre cambios en el catálogo de cursos.
+- [Catalogo FCFM Bot](https://t.me/CatalogoFCFMBot) - [(repo)](https://github.com/scisneros/catalogo-fcfm-bot) - Bot de Telegram que avisa sobre cambios en el catálogo de cursos.
 - [U-Cursedn't](https://github.com/matias-saavedra-g/ucursednt) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos, continuación de tU-Cursos.
 - [tU-Cursos](https://github.com/Nyveon/tU-Cursos) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos.
 
