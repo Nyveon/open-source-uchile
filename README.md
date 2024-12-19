@@ -40,6 +40,9 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 - [Población DCC](https://poblacion.eri.cl/) - [(repo)](https://github.com/Nyveon/dcc-size) - Visualización de la población del DCC a lo largo de los años.
 - [Prácticas DCC](https://cadcc.github.io/dcc-practicas/) - [(repo)](https://github.com/cadcc/dcc-practicas) - Análisis y visualizaciones de las experiencias de prácticas en el DCC, con info y consejos. 
 
+### Cursos y ramos
+
+- [Catalogo FCFM Bot](https://t.me/CatalogoFCFMBot) - [(repo)](https://github.com/scisneros/catalogo-fcfm-bot) - Bot de Telegram que avisa sobre cambios en el catálogo de cursos.
 
 ### Herramientas docentes
 
@@ -65,7 +68,6 @@ Catálogo de proyectos Open Source útiles relacionados a la Universidad de Chil
 
 ### U-Cursos y Ucampus
 
-- [Catalogo FCFM Bot](https://t.me/CatalogoFCFMBot) - [(repo)](https://github.com/scisneros/catalogo-fcfm-bot) - Bot de Telegram que avisa sobre cambios en el catálogo de cursos.
 - [U-Cursedn't](https://github.com/matias-saavedra-g/ucursednt) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos, continuación de tU-Cursos.
 - [tU-Cursos](https://github.com/Nyveon/tU-Cursos) - Extensión de Chrome para agregarle nuevas funcionalidades a U-Cursos.
 
